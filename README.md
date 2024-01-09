@@ -1,10 +1,9 @@
-# Hi! I am <a href="#">Mohammed Jakaria</a>
+# Hi! I am <a>Md Jakaria</a>
 <img src="https://images.unsplash.com/photo-1550439062-609e1531270e?ixid=MnwxMjA3fDB8MHxzZWFyY2h8MTJ8fHByb2dyYW1taW5nfGVufDB8fDB8fA%3D%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=500&q=60" alt="banner" height="350px" width="700px"/>
 Here are some ideas to get you started:
 
-- 🔭 I read in class 10
-- 🌱 I’m currently learning <b>something special.</b>
-- 🌱 My hobbies are coding, gaming
+- 🔭 I read in college
+- 🌱 I’m currently upgrading my<b>Skils</b>
 - 📫 How to reach me: <a href="https://www.facebook.com/profile.php?id=100031738032367"> Facebook Profile </a>, <a href="https://www.facebook.com/coderjakaria"> Facebook Page </a> , <a href="https://www.instagram.com/coderjakaria">Instagram </a>
 - 📫 My Portfolio: <a href="https://coderjakaria.web.app/">Coder Jakaria</a>
 
